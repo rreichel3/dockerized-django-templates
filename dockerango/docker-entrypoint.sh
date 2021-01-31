@@ -12,5 +12,5 @@ echo "Apply database migrations"
 python manage.py migrate
 
 # Start server
-echo "Starting server"
+echo "Starting server"w
 python manage.py runserver 0.0.0.0:8000
